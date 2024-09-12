@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label, input, select, button {
+    display: block;
+    margin: 10px 0;
+}
+
+#installation-result, #removal-result {
+    font-weight: bold;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#service-selection h2, #installation-form h2, #removal-form h2 {
+    margin-bottom: 20px;
+}
